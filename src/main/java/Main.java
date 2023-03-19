@@ -68,39 +68,3 @@ public class Main {
     }
 }
 
-//            TreeMap<Integer, List[]> phone = new TreeMap<>();
-//            List<String[]> name1 = new ArrayList<>();
-//            List<Integer[]> phoneLog = new ArrayList<>();
-//        while (sc.hasNext()) {
-//            String line = sc.nextLine();
-//            name1.add(line.split(" "));
-//            phoneLog.add(Integer.valueOf(name1.get(3)));
-//            phoneLog.add(name1.get(4));
-//            phoneLog.add(name1.get(5));
-//            phoneLog.add(name1.get(6));
-//        }
-//        for (String[] elem : data) {
-//
-//            phone.put(Integer.valueOf(elem[2]), (phoneLog))
-//                }
-//                System.out.println();
-//                System.out.println(phone);
-
-
-//        nameSort.entrySet().stream()
-//                .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
-//                .forEach(System.out::println); // или любой другой конечный метод
-
-
-//        for( Map.<String, String>item : s.entrySet()){
-//
-//            System.out.printf("Key: %d  Value: %s \n", item.getKey(), item.getValue());
-//        }
-
-
-
-//    Map<String,String> s =new TreeMap<String,String>();
-//     for (int i = 0; i< data.size(); i++)
-//            s.put(data.get(i)[1],data.get(i)[0]);
-
-
